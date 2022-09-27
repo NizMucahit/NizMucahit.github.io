@@ -1,6 +1,7 @@
-body {
+.bg {
+  width: 100%;
+  height: 400px;
   background-image: url("../NizMucahit.github.io/images/bg.jpg");
   background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+  background-size: contain;
 }
