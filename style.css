@@ -1,9 +1,5 @@
 body {
-  min-width: 960px;
-  min-height: 960px;
-  background-image: url("/images/Nobran.jpg");
-  background-repeat: no-repeat;
-  background-position: center;
+  background-color: black;
   margin: 0;
   padding: 0;
 }
@@ -11,7 +7,7 @@ body {
 h1,
 h5 {
   font-size: 20px;
-  color: black;
+  color: white;
   text-align: center;
 }
 
